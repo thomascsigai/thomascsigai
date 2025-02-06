@@ -7,13 +7,12 @@
 
 **Game Engine Developer | C++ Enthusiast | Game Programming Student**
 ## 🛠 Tech Stack
-
-**Languages**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-**Engines & Frameworks**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-FF6600?style=flat-square&logo=libsdl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomascsigai&layout=compact&theme=dark&hide=html,python)](https://github.com/thomascsigai)
+
